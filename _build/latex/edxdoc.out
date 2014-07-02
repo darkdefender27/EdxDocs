@@ -1,0 +1,55 @@
+\BOOKMARK [0][-]{chapter.1}{Abstract}{}% 1
+\BOOKMARK [0][-]{chapter.2}{INTRODUCTION}{}% 2
+\BOOKMARK [1][-]{section.2.1}{What is data analytics and its importance?}{chapter.2}% 3
+\BOOKMARK [1][-]{section.2.2}{Why data analysis in educational data?}{chapter.2}% 4
+\BOOKMARK [1][-]{section.2.3}{PURPOSE}{chapter.2}% 5
+\BOOKMARK [1][-]{section.2.4}{SCOPE}{chapter.2}% 6
+\BOOKMARK [0][-]{chapter.3}{Overall description}{}% 7
+\BOOKMARK [1][-]{section.3.1}{Product Functions}{chapter.3}% 8
+\BOOKMARK [1][-]{section.3.2}{Constraints}{chapter.3}% 9
+\BOOKMARK [1][-]{section.3.3}{Assumptions and Dependancies}{chapter.3}% 10
+\BOOKMARK [0][-]{chapter.4}{Technologies used:}{}% 11
+\BOOKMARK [0][-]{chapter.5}{REQUIREMENTS}{}% 12
+\BOOKMARK [1][-]{section.5.1}{Functional Requirements}{chapter.5}% 13
+\BOOKMARK [1][-]{section.5.2}{Performance Requirements}{chapter.5}% 14
+\BOOKMARK [1][-]{section.5.3}{Non Functional Requirments}{chapter.5}% 15
+\BOOKMARK [0][-]{chapter.6}{HADOOP}{}% 16
+\BOOKMARK [1][-]{section.6.1}{Running Hadoop on Ubuntu \(Single node cluster setup\)}{chapter.6}% 17
+\BOOKMARK [1][-]{section.6.2}{PREREQUISITES}{chapter.6}% 18
+\BOOKMARK [1][-]{section.6.3}{INSTALLATION}{chapter.6}% 19
+\BOOKMARK [1][-]{section.6.4}{Running Hadoop on Ubuntu Linux \(Multi-Node Cluster\)}{chapter.6}% 20
+\BOOKMARK [1][-]{section.6.5}{Prerequisites}{chapter.6}% 21
+\BOOKMARK [1][-]{section.6.6}{Networking}{chapter.6}% 22
+\BOOKMARK [1][-]{section.6.7}{SSH access}{chapter.6}% 23
+\BOOKMARK [1][-]{section.6.8}{Hadoop}{chapter.6}% 24
+\BOOKMARK [0][-]{chapter.7}{HIVE}{}% 25
+\BOOKMARK [1][-]{section.7.1}{Installing HIVE:}{chapter.7}% 26
+\BOOKMARK [1][-]{section.7.2}{Setting Hive environment variable:}{chapter.7}% 27
+\BOOKMARK [1][-]{section.7.3}{Setting HADOOP\137PATH in HIVE config.sh}{chapter.7}% 28
+\BOOKMARK [1][-]{section.7.4}{Create Hive directories within HDFS}{chapter.7}% 29
+\BOOKMARK [1][-]{section.7.5}{Setting READ/WRITE permission for table}{chapter.7}% 30
+\BOOKMARK [1][-]{section.7.6}{HIVE launch}{chapter.7}% 31
+\BOOKMARK [1][-]{section.7.7}{Creating a database}{chapter.7}% 32
+\BOOKMARK [1][-]{section.7.8}{Configuring hive-site.xml:}{chapter.7}% 33
+\BOOKMARK [1][-]{section.7.9}{Writing a Script}{chapter.7}% 34
+\BOOKMARK [0][-]{chapter.8}{SQOOP}{}% 35
+\BOOKMARK [1][-]{section.8.1}{INTRODUCTION}{chapter.8}% 36
+\BOOKMARK [1][-]{section.8.2}{Stable release and Download}{chapter.8}% 37
+\BOOKMARK [1][-]{section.8.3}{Prerequisites}{chapter.8}% 38
+\BOOKMARK [1][-]{section.8.4}{Installation}{chapter.8}% 39
+\BOOKMARK [1][-]{section.8.5}{IMPORTING DATA FROM HADOOP TO MYSQL}{chapter.8}% 40
+\BOOKMARK [0][-]{chapter.9}{EdX Description}{}% 41
+\BOOKMARK [1][-]{section.9.1}{auth\137user}{chapter.9}% 42
+\BOOKMARK [1][-]{section.9.2}{auth\137userprofile}{chapter.9}% 43
+\BOOKMARK [1][-]{section.9.3}{courseware\137studentmodule}{chapter.9}% 44
+\BOOKMARK [1][-]{section.9.4}{Research paper study}{chapter.9}% 45
+\BOOKMARK [0][-]{chapter.10}{Log Parsing}{}% 46
+\BOOKMARK [1][-]{section.10.1}{Procedure}{chapter.10}% 47
+\BOOKMARK [0][-]{chapter.11}{Connection of Hive with Java}{}% 48
+\BOOKMARK [0][-]{chapter.12}{Feature Extraction}{}% 49
+\BOOKMARK [0][-]{chapter.13}{Machine Learning}{}% 50
+\BOOKMARK [0][-]{chapter.14}{DATA VISUALISATION}{}% 51
+\BOOKMARK [0][-]{chapter.15}{Future work}{}% 52
+\BOOKMARK [0][-]{chapter.16}{Conclusion}{}% 53
+\BOOKMARK [0][-]{chapter.17}{References}{}% 54
+\BOOKMARK [0][-]{chapter.18}{Indices and tables}{}% 55
